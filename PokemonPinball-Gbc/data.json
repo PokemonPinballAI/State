@@ -1,0 +1,17 @@
+{
+  "info": {
+    "ball_counter": {
+      "address": 54473,
+      "type": "<d1"
+    },
+    "pokemon_caught": {
+      "address": 54368,
+      "type": "<d1"
+    },
+    "score": {
+      "address": 54378,
+      "type": "<d6"
+    }
+  }
+}
+
